@@ -11,7 +11,7 @@
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@MissSaCarter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Sune) [![Mail Badge](https://img.shields.io/badge/-SuneCarelse-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/Sune.Carelse) [![Linkedin Badge](https://img.shields.io/badge/-Sune-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Fabian-VanWyk/) [![Mail Badge](https://img.shields.io/badge/-@misscfc1905-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/fabba1892) [![Mail Badge](https://img.shields.io/badge/-sacarelse-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sacarelse@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@MissSaCarter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Sune) [![Mail Badge](https://img.shields.io/badge/-SuneCarelse-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/Sune.Carelse) [![Linkedin Badge](https://img.shields.io/badge/-Sune-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Sune-Carelse/) [![Mail Badge](https://img.shields.io/badge/-@misscfc1905-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/@misscfc1905) [![Mail Badge](https://img.shields.io/badge/-sacarelse-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sacarelse@gmail.com)
 <br />
 
 ### Languages and Tools:
