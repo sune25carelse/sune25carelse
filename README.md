@@ -41,5 +41,11 @@
 #### Profile Visits 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sune25carelse.sune25carelse)
 
+
+#### Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 #### Github Stats
 ![Sune's github stats](https://github-readme-stats.vercel.app/api?username=sune25carelse&count_private=true&theme=tokyonight&hide=contribs,prs)
