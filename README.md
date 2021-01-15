@@ -1,6 +1,6 @@
 ### Hi there, I'm Sune - aka Nanna👋
 
-## I'm a Mother and Developer!!
+## I'm a Data Analyst and Developer!!
 
 - 🌱 I’m currently learning Javascript MERN stack🤣
 - 👯 I’m looking to collaborate with other content creators
