@@ -34,7 +34,7 @@
 <br />
 <br />
 
-#### Bizness
+#### Bidness
 :email: sacarelse@gmail.com
 
 
